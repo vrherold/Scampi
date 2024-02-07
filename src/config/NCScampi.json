@@ -1,0 +1,17 @@
+{
+    "name": "Non-Cartesian-Scampi",
+    "dtype": "float32",
+    "learningrate": 0.003,
+    "batch_size": 1,
+    "skip_connections": 0.0,
+    "n_epochs": 10000,
+    "eta_k": 20,
+    "eta_img": 10,
+    "l_l1w": 2.5e-08,
+    "l_tv": 0.0,
+    "image_size": "256,256",
+    "grid_size": "512,512",
+    "n_coilmaps" : 10,
+    "n_spokes" : 80,
+    "amsgrad": "True"
+}
