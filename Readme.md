@@ -24,7 +24,7 @@ We recommend to use virtualenv to create the virtual environment.
 ## **Examples:**
 
 
-The jupyternotebooks (Cartesian_Scampi, NonCartesianScampi) with the included MR-sample data demonstrates the reconstruction of undersampled multicoil data.
+The jupyternotebooks (Cartesian_Scampi, NonCartesian_Scampi) with the included MR-sample data demonstrates the reconstruction of undersampled multicoil data.
 
     $ cd ..
     $ jupyter-notebook Cartesian_Scampi.ipynb
