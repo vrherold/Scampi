@@ -136,7 +136,6 @@ thinc==8.1.1
 threadpoolctl==3.1.0
 tifffile==2022.10.10
 tinycss2==1.1.1
-tokenizers==0.12.1
 tomli==2.0.1
 torch==1.13.1
 torchaudio==0.12.1
