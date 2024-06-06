@@ -141,7 +141,7 @@ torch==1.13.1
 torchaudio==0.12.1
 torchkbnufft==1.4.0
 torchvision==0.13.1
-tornado==6.2
+tornado==6.4.1
 tqdm>=4.66.3
 traitlets==5.4.0
 typer==0.4.2
